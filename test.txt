@@ -11,3 +11,4 @@ git reflog 查看版本精简信息
 git log 查看版本详细信息
 git add <fill name> 提交文件到在暂存区 即进行跟踪
 git commit -m <log> <file name> 将在暂存区文件提交到本地仓库，形成历史版本
+git reset --hard <版本号> 切换到别的版本文件
