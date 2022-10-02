@@ -4,3 +4,10 @@ aaaaa
 aa
 a
 2222
+
+git init 初始化一个文件夹为工作区
+git status 查看当前文件状态
+git reflog 查看版本精简信息
+git log 查看版本详细信息
+git add <fill name> 提交文件到在暂存区 即进行跟踪
+git commit -m <log> <file name> 将在暂存区文件提交到本地仓库，形成历史版本
